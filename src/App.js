@@ -1,8 +1,8 @@
 import React from 'react';
-import Resturant from './component/Basics/Resturant';
+import Restaurant from './component/Basics/Restaurant';
 
 const App = () => {
-  return <Resturant />;
+  return <Restaurant />;
 };
 
 export default App;
